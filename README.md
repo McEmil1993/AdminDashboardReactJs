@@ -40,7 +40,7 @@ git clone <repository-url>
 Example:
 
 ```bash
-git clone https://github.com/user/my-react-app.git
+git clone [https://github.com/user/my-react-app.git](https://github.com/McEmil1993/AdminDashboardReactJs.git)
 ```
 
 Then navigate into the project folder:
